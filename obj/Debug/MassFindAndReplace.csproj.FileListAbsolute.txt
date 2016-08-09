@@ -4,3 +4,9 @@ C:\Git\Testing\MassFindAndReplace\MassFindAndReplace\bin\Debug\MassFindAndReplac
 C:\Git\Testing\MassFindAndReplace\MassFindAndReplace\obj\Debug\MassFindAndReplace.exe
 C:\Git\Testing\MassFindAndReplace\MassFindAndReplace\obj\Debug\MassFindAndReplace.pdb
 C:\Git\Testing\MassFindAndReplace\MassFindAndReplace\obj\Debug\MassFindAndReplace.csprojResolveAssemblyReference.cache
+C:\Git\Testing\MassFindAndReplace\bin\Debug\MassFindAndReplace.exe.config
+C:\Git\Testing\MassFindAndReplace\obj\Debug\MassFindAndReplace.exe
+C:\Git\Testing\MassFindAndReplace\obj\Debug\MassFindAndReplace.pdb
+C:\Git\Testing\MassFindAndReplace\bin\Debug\MassFindAndReplace.exe
+C:\Git\Testing\MassFindAndReplace\bin\Debug\MassFindAndReplace.pdb
+C:\Git\Testing\MassFindAndReplace\obj\Debug\MassFindAndReplace.csprojResolveAssemblyReference.cache
